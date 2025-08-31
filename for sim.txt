@@ -1,0 +1,19 @@
+for sim
+
+create all scenes/sprites
+
+>>elevator exterior and interior
+>>elevator up and down buttons zoom-in (exterior)
+>>elevator ext. buttons tooltip
+>>Zoom-out message display ('Go down?', 'Go up?', 'Reached __ floor')
+>>elevator keypad with 4 floor numbers (interior)
+>>elevator keypad tooltip (interior)
+>>elevator open and close animation
+>>import elevator music file
+>>A topbar menu with 'RESTART' and 'QUIT' options
+
+
+choose framework/library to code together (curses, pygame,windows batch file, javascript)
+
+
+
