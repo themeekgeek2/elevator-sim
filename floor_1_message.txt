@@ -1,0 +1,8 @@
++++____________________________________++
+|  You are currently on the '1st' floor.|
+|  What do you want to do?              |
+|                                       |
+|  (1) Take elevator UP                 |
+|                                       |
+|  (2) Exit building                    |
+|_______________________________________|  

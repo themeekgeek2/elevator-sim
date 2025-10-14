@@ -1,0 +1,8 @@
+.____________________________________.
+|                                    |
+|  Are you sure you want to exit?    |
+|                                    |
+| (The application will close itself)|
+|                                    |
+| (1) YES           (2) NO           |
+.____________________________________.
